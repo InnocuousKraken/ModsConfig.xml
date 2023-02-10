@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="XmlExtensions.XmlModBaseSettings">
+		<dataDict>
+			<keys>
+				<li>MrKociak.YetAnotherProstheticExpansionModCore;BIE_CraftUltra</li>
+				<li>MrKociak.YetAnotherProstheticExpansionModAnimals;BIE_Tailbone</li>
+				<li>MaleMaru;MaleMaruProbSlider</li>
+				<li>MaleMaru;MaleMaruCustomNamer</li>
+				<li>3HSTltd.Styles.Techist;BDsIfSetToCorporateStyle</li>
+				<li>3HSTltd.Styles.Techist;BDsIfSetToTechistStyle</li>
+				<li>3HSTltd.Styles.Techist;BDsSpacerStone</li>
+			</keys>
+			<values>
+				<li>False</li>
+				<li>false</li>
+				<li IsNull="True" />
+				<li>true</li>
+				<li>true</li>
+				<li>true</li>
+				<li>true</li>
+			</values>
+		</dataDict>
+		<PinnedMods />
+		<trace>True</trace>
+		<standardMods>True</standardMods>
+		<mainButton>True</mainButton>
+	</ModSettings>
+</SettingsBlock>

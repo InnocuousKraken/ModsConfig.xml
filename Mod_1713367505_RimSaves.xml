@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="aRandomKiwi.ARS.Settings">
+		<folders>
+			<li>Default</li>
+			<li>Moyo</li>
+			<li>Epona Settlement</li>
+			<li>New</li>
+			<li>Esistan Accord</li>
+			<li>Angel Tech</li>
+			<li>Neni Liberal Nation</li>
+			<li>Ourlior</li>
+			<li>The Green Cove</li>
+			<li>Deledda</li>
+		</folders>
+	</ModSettings>
+</SettingsBlock>
